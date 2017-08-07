@@ -11,12 +11,10 @@
   * [BootStrap]()
   * [Nuxt]()
   * [Vue]()
-  * [ZUI]()
+  * [ZUI](https://jesonhu.gitbooks.io/zui-tutorial/content/)
    
 ## 工具使用-Tool Part
   * [Ih5](https://jesonhu.gitbooks.io/ih5-study/content/)
   * [Git]()
-  * [PhotoShop](https://jesonhu.gitbooks.io/photoshop/content/)
+  * [PhotoShop]()
   * [Webpack](https://jesonhu.gitbooks.io/webpack2-x/content/)
-  
-    
