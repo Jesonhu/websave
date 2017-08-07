@@ -16,7 +16,7 @@
 ## 工具使用-Tool Part
   * [Ih5](https://jesonhu.gitbooks.io/ih5-study/content/)
   * [Git]()
-  * [PhotoShop]()
+  * [PhotoShop](https://jesonhu.gitbooks.io/photoshop/content/)
   * [Webpack](https://jesonhu.gitbooks.io/webpack2-x/content/)
   
     
