@@ -68,3 +68,6 @@
   * 软技能，时间管理
   * 后端语言
   * Web相关软件
+    * [PhotoShop](https://jesonhu.gitbooks.io/photoshop/content/)
+    * [VS Code]()
+    * [WebStorm]()
