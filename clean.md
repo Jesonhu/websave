@@ -8,3 +8,4 @@
 ## 2017-08-11
  - [ ] 1 白鹭继承关系
  - [ ] 2 vue验证重心要向 [vee-vuelidate](https://github.com/baianat/vee-validate)转移
+ - [ ] 3 swiper 轮播，js控制响应式图片尺寸。示例： [高德高芯](http://gst.gst-ir.com/product/detail/id/33.html)
