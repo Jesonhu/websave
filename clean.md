@@ -7,3 +7,4 @@
 
 ## 2017-08-11
  - [ ] 1 白鹭继承关系
+ - [ ] 2 vue验证重心要向 [vee-vuelidate](https://github.com/baianat/vee-validate)转移
