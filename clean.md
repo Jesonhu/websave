@@ -13,4 +13,7 @@
  - [ ] 5 js事件流，闭包。事件监听。radis。nodejs排队
 
 ## 2017-08-13
- - [] AutoWrap.js
+ - [x] AutoWrap.js
+ 
+## 2017-08-14
+ - [x] AutoWrap.js 测试
