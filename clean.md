@@ -17,3 +17,6 @@
  
 ## 2017-08-14
  - [x] AutoWrap.js 测试
+ - [ ] background-size:contain/cover
+   * contain:图片全部显示。
+   * cover: 宽度一直100%
