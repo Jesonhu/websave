@@ -11,3 +11,6 @@
  - [ ] 3 swiper 轮播，js控制响应式图片尺寸。示例： [高德高芯](http://gst.gst-ir.com/product/detail/id/33.html)
  - [ ] 4 Jquery 表单验证 vuelidate插件使用。示例： [留言](http://gst.gst-ir.com/Service/science/mid/21.html#43)
  - [ ] 5 js事件流，闭包。事件监听。radis。nodejs排队
+
+## 2017-08-13
+ - [] AutoWrap.js
