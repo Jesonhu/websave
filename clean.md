@@ -20,3 +20,6 @@
  - [ ] background-size:contain/cover
    * contain:图片全部显示。
    * cover: 宽度一直100%
+
+## 2017-08-14
+  - [x] ih5剪切不显示，具体表现为图片visible:hidden。尝试方法：图片删掉重新添加
